@@ -1,0 +1,11 @@
+.idea
+.venv
+__pycache__
+.pytest_cache
+
+# Local
+.DS_Store
+
+# Logs
+logs
+tmp
